@@ -1,0 +1,1 @@
+The scarf will be given physics in game so do not worry about the anims for that. 
